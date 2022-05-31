@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Disallow: /css
+Host: 
+Sitemap: http:///sitemap.xml
+Host: www.https://miahavryliv.github.io/
